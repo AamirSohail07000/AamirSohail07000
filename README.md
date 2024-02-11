@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aamir
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in web and mobile development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects that will give me an exposure to utilize my learnings
 - 📫 email- sohail.aamir07000@gmail.com 
 
