@@ -1,7 +1,7 @@
 Hi, I’m Aamir. I’m currently working as a Talent Acquisition professional,
 but I am transitioning to a backend development role, driven by my passion for coding and web development.
 
-I’m learning Backend development and my skills include:
+Currently, I’m learning Backend development and my skills include:
 
 -HTML, CSS, Bootstrap, JavaScript
 -Java, Python (Django, Flask)
