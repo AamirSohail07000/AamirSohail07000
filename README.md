@@ -3,7 +3,7 @@ but I am transitioning to a backend development role, driven by my passion for c
 
 Currently, I’m learning Backend development and my skills include:
 
--HTML, CSS, Bootstrap, JavaScript
+-HTML, CSS, JavaScript
 -Java, Python (Django, Flask)
 -MySQL, GitHub
 Currently, I’m focusing on Python, Django, and Flask, and I’m working on various projects to apply and deepen my knowledge.
